@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+}
+.fx-jc-c{
+    display: flex;
+    justify-content: center;
+}
+.fx-ai-c{
+    display: flex;
+    align-items: center;
+}
+.fx-c{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.fx-sp-b{
+    display: flex;
+    justify-content: space-between;
+}
+.fx-sp-ar{
+    display: flex;
+    justify-content: space-around;
+}
+.fx-jc-c-col{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
